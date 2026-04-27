@@ -53,7 +53,8 @@ The dashboard focuses on analyzing workforce structure, employee attrition, and 
 ---
 
 ## Data Model
-<img width="1120" height="634" alt="HR-DASHBOARD- P E" src="https://github.com/user-attachments/assets/a6862897-79af-4705-8747-1e22e32e0aec" />
+<img width="801" height="734" alt="HR - DASHBOARD - DATA MODEL" src="https://github.com/user-attachments/assets/0aa25937-c72c-4a6f-9f37-d4a1463c4310" />
+
 
 
 ---
